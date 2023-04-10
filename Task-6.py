@@ -14,4 +14,4 @@ print("Random number:", random_number)
 if is_prime(random_number):
     print(random_number, "is a prime number.")
 else:
-    print(random_number, "is not a prime number.")
+    print(random_number, "is not a prime number.") 
